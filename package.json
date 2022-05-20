@@ -1,8 +1,8 @@
 {
-  "name": "@lit/lit-starter-ts",
-  "private": true,
-  "version": "1.0.3",
-  "description": "A simple web component",
+  "name": "litstory",
+  "private": false,
+  "version": "0.0.1",
+  "description": "Experimental lit project",
   "main": "my-element.js",
   "module": "my-element.js",
   "type": "module",
